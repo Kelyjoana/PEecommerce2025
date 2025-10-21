@@ -7,4 +7,4 @@
 Descripción: Página web de accesorios para mascotas.
 
 
-Tecnologías: HTML - CSS - 
+Tecnologías: HTML - CSS - test nacho
